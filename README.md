@@ -1,40 +1,40 @@
-# community
+# Community
 Repo for community call agendas and other governance documentation
 
 ## Calender
 We meet every other week on Thursdays at 1pm PT.
 
-2018
-Dec. 13
-Dec. 27
+## 2018
+- Dec. 13
+- Dec. 27
 
-2019
-Jan. 10
-Jan. 24
-Feb. 7
-Feb. 21
-Mar. 7
-Mar. 21
-Apr. 4
-Apr. 18
-May. 2
-May. 16
-May. 30
-Jun. 13
-Jun. 27
-Jul. 11
-Jul. 25
-Aug. 8
-Aug. 15
-Aug. 29
-Sept. 12
-Sept. 26
-Oct. 10
-Oct. 24
-Nov. 7
-Nov. 21
-Dec. 5
-Dec. 19
+## 2019
+- Jan. 10
+- Jan. 24
+- Feb. 7
+- Feb. 21
+- Mar. 7
+- Mar. 21
+- Apr. 4
+- Apr. 18
+- May. 2
+- May. 16
+- May. 30
+- Jun. 13
+- Jun. 27
+- Jul. 11
+- Jul. 25
+- Aug. 8
+- Aug. 15
+- Aug. 29
+- Sept. 12
+- Sept. 26
+- Oct. 10
+- Oct. 24
+- Nov. 7
+- Nov. 21
+- Dec. 5
+- Dec. 19
 
 ## Community Funding and Project Wishlist
 
